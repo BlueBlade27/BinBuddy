@@ -31,3 +31,6 @@ In a world where waste disposal can be confusing and missteps lead to contaminat
 
 By using Bin Buddy, you're not just cleaning up your surroundings—you’re contributing to a cleaner planet.
 
+## To see it work
+
+- checkout our devpost submission which contains a demo of our app: https://devpost.com/software/binbuddy-z5pn6d
